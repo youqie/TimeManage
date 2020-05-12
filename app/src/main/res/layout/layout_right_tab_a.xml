@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="睡觉"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="吃饭"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="学习"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="跑步"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="玩游戏"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="看电视"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="写作业"
+        android:textSize="14sp" />
+
+</LinearLayout>
